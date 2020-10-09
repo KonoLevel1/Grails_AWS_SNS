@@ -1,0 +1,2 @@
+# Grails_AWS_SNS
+GrailsでAmazonWebServiceのSimpleNotificationServiceを使ってみた。
